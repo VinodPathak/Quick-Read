@@ -10,3 +10,4 @@ Overview of Topics
 7. https://medium.com/technologymadeeasy/the-best-explanation-of-convolutional-neural-networks-on-the-internet-fbb8b1ad5df8
 8. https://blog.floydhub.com/introduction-to-adversarial-machine-learning/
 9. https://www.machinecurve.com/index.php/2019/09/23/understanding-separable-convolutions/
+10. https://towardsdatascience.com/a-basic-introduction-to-separable-convolutions-b99ec3102728
