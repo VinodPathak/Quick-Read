@@ -11,3 +11,4 @@ Overview of Topics
 8. https://blog.floydhub.com/introduction-to-adversarial-machine-learning/
 9. https://www.machinecurve.com/index.php/2019/09/23/understanding-separable-convolutions/
 10. https://towardsdatascience.com/a-basic-introduction-to-separable-convolutions-b99ec3102728
+11. https://medium.com/inveterate-learner/deep-learning-book-chapter-8-optimization-for-training-deep-models-part-ii-438fb4f6d135
